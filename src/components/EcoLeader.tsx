@@ -150,9 +150,6 @@ export default function EcoLeader() {
           <h2 className="text-2xl font-bold text-gray-900 font-display tracking-tight flex items-center gap-2">
             [교육용] 에코-리더 <span className="text-emerald-600 font-medium">잔반 제로 & 탄소발자국 기록</span>
           </h2>
-          <p className="text-sm text-gray-500 mt-1.5">
-            학생들이 매일 잔반 제로 실천(수요일은 다 먹는 날: 수다날 등)에 자율적으로 도전하고, 그로 인해 감축된 온실가스(탄소 발자국) 수치를 직접 체감하며 재미를 부여하는 자기주도적 에코 스쿨 식생활 교육용 솔루션입니다.
-          </p>
         </div>
         <button 
           onClick={handleResetUser}

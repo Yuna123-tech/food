@@ -367,9 +367,6 @@ export default function TodaysPick() {
           <h2 className="text-2xl font-bold text-gray-900 font-display tracking-tight">
             [학생용] 오늘의 픽 <span className="text-emerald-600 font-medium">메뉴 투표 & 만족도조사</span>
           </h2>
-          <p className="text-sm text-gray-500 mt-1.5">
-            학생에게는 급식 선택권을 보장하여 기호도를 충족시키고, 조리실에는 실시간 사전 선호도 수치를 전달해 <b>수요 예측</b> 기반의 계획 생산을 가능케 함으로써 잔식 자체를 근절하는 디지털 자율급식 관리 솔루션입니다.
-          </p>
         </div>
 
         {/* Preset Selector */}

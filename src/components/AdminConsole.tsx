@@ -44,10 +44,6 @@ export default function AdminConsole() {
         <h2 className="text-2xl font-bold text-gray-900 font-display tracking-tight flex items-center gap-2">
           [관리자용] 급식 정책 <span className="text-emerald-600 font-medium">종합 성과 분석 및 효과 산출기</span>
         </h2>
-        <p className="text-sm text-gray-500 mt-1.5">
-          자율선택급식(학생 오늘의 픽), 스마트 위생 관리(조리 스마트 CCP), 탄소 중립 참여(에코-리더)가 유기적으로 연합하였을 때 
-          학교에 발생할 수 있는 <b>재정적, 행정적, 환경적 성과</b>를 미리 계산해볼 수 있는 정책 효과 기획 산출 보드입니다.
-        </p>
       </div>
 
       {/* Interactive Simulator Card */}

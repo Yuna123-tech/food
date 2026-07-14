@@ -130,10 +130,6 @@ export default function SmartCCP() {
         <h2 className="text-2xl font-bold text-gray-900 font-display tracking-tight flex items-center gap-2">
           [조리종사원용] 스마트 CCP <span className="text-sky-600 font-medium">디지털 위생 관리 일지</span>
         </h2>
-        <p className="text-sm text-gray-500 mt-1.5">
-          매일 조리실에서 필수로 종이에 서명해 보관하던 복잡한 HACCP 수기 문서를 스마트 태블릿 기기나 센서를 통해 간소화합니다. 
-          실시간 온도 이탈 경보 시스템을 가동하여 식중독 안전사고를 완벽히 예방하고 조리종사원의 불필요한 장부 서류 수동 기록 시간을 매일 약 40분 이상 세이브해 줍니다.
-        </p>
       </div>
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-8">
